@@ -1,9 +1,5 @@
-# DocuMind AI
-
 **Your Intelligent PDF Question Answering Assistant**
-
-> 📖 **First time running this project?** Check out the step-by-step [**Quick Start & Run Guide (RUN_GUIDE.md)**](file:///c:/Users/Jayesh/OneDrive/Desktop/RAG%20application/RUN_GUIDE.md) for Windows, macOS, and Linux setup instructions!
-
+> 📖 **First time running this project?** Check out the step-by-step [**Quick Start & Run Guide (RUN_GUIDE.md)**]for Windows, macOS, and Linux setup instructions!
 A production-grade, full-stack Retrieval-Augmented Generation (RAG) web application built with **React**, **Vite**, **Tailwind CSS**, **FastAPI**, **LangChain**, **FastEmbed**, **Qdrant (in-memory)**, and **NVIDIA NIM (Nemotron 3.5)**, backed by **MongoDB Atlas** for document metadata and interaction history.
 
 ---
